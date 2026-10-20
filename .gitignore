@@ -1,0 +1,5 @@
+temp/
+笔记/
+learning-notes/
+__pycache__/
+*.py[cod]
